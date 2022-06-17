@@ -1,0 +1,31 @@
+DEPENDENCIAS{
+npm init -y
+npm i inquirer // manejo de consola cmd
+npm i axios
+}
+
+
+URLS{
+https://docs.mapbox.com/api/search/geocoding/
+https://www.mapbox.com/
+https://home.openweathermap.org/
+}
+
+EXTRAS{
+console.time('inicio')
+console.timeEnd('inicio')
+
+npm update -> actualiza las dependencias
+npm i nodemon --save-dev
+npm i express
+npm i dotenv
+npm i express-validator
+npm i mongoose
+npm i bcryptjs
+npm i jsonwebtoken
+npm i cors
+npm i moment
+npm i colors || npm i colors@1.0.0
+
+npm i yargs //
+}
